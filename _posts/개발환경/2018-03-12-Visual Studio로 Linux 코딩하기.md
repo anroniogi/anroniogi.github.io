@@ -95,5 +95,5 @@ $ sudo apt-get install openssh-server g++ gdb gdbserver
 리눅스에서도 동일하게 실행되는걸 확인할 수 있다.
 
 
->참조1 : https://docs.microsoft.com/ko-kr/cpp/linux/create-a-new-linux-project
->참조2 : http://blog.naver.com/PostView.nhn?blogId=tipsware&logNo=220991849234&categoryNo=52&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView
+>[참조1 : docs.microsoft.com](https://docs.microsoft.com/ko-kr/cpp/linux/create-a-new-linux-project)  
+>[참조2 : 김성엽님 블로그]( http://blog.naver.com/PostView.nhn?blogId=tipsware&logNo=220991849234&categoryNo=52&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView)
